@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Damir</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan/Almaty</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/16/79/63/167963bd5ca3db9503e49723cbc06d7b.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damirtd&label=Profile%20views&color=0e75b6&style=flat" alt="damirtd" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
